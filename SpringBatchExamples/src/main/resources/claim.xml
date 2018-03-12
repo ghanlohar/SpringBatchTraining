@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<claim>
+		<claim_id>43</claim_id>
+		<doc>2017/1/1</doc>
+		<amount>1000</amount>
+		<policyholder_name>Hardik</policyholder_name>
+	</claim>
+	<claim>
+		<claim_id>44</claim_id>
+		<doc>2017/2/1</doc>
+		<amount>2000</amount>
+		<policyholder_name>Akash</policyholder_name>
+	</claim>
+	<!--  <claim>
+		<claim_id>33</claim_id>
+		<doc>2017/3/1</doc>
+		<amount>3000</amount>
+		<policyholder_name>Abhilash</policyholder_name>
+	</claim>
+	<claim>
+		<claim_id>34</claim_id>
+		<doc>2017/4/1</doc>
+		<amount>4000</amount>
+		<policyholder_name>Abhishesh</policyholder_name>
+	</claim>
+	<claim>
+		<claim_id>35</claim_id>
+		<doc>2017/5/1</doc>
+		<amount>5000</amount>
+		<policyholder_name>Bishu</policyholder_name>
+	</claim>
+	<claim>
+		<claim_id>36</claim_id>
+		<doc>2017/6/1</doc>
+		<amount>6000</amount>
+		<policyholder_name>Neelam</policyholder_name>
+	</claim>-->
+</data>
